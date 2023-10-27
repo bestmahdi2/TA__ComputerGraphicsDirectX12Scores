@@ -10,6 +10,8 @@
 
 **میزان سختی:** آسان
 
+**فایل تکلیف:** [تکلیف 1](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework1.pdf) 
+
 ### نمرات:
 
 
