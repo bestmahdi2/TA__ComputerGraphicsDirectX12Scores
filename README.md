@@ -25,10 +25,10 @@
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	| ---:
 |	|	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+80-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+10-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br> |	<a href=""><img src="https://img.shields.io/badge/+30-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/Day---10-E90000.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
 1 | شقایق اعرابی | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/120-318CE7.svg"/></a> | رعایت نکردن پسوند فایل مورد نظر.
+2 | امیرحسین باقرزاده | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | جواب سوال 2 بسیار کلی است. فرمت فایل خواسته شده رعایت نشده است.
 2 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 2 | علیرضا فروزنده | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | سوال 2 بسیار کلی پاسخ داده شده است.
 3 | محمدمهدی صالحی | ✅ | ➖ | ➖ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/75-318CE7.svg"/></a> | سوال 2 حل نشده است.
-4 | امیرحسین باقرزاده | ✅ | ➖ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/55-318CE7.svg"/></a> | سوال 2 حل نشده است.
 4 | محمد شجاعی | ✅ | ➖ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/55-318CE7.svg"/></a> | سوال 2 حل نشده است.
 5 | حسین محمدخانی | ❌ | ➖ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/50-318CE7.svg"/></a> | سوال 2 حل نشده است.
 6 | نرجس اسپنانی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف ارسال نشده است.
