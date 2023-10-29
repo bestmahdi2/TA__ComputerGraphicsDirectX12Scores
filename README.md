@@ -45,6 +45,31 @@
 6 | ابوالفضل نجف‌پور | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف ارسال نشده است.
 </div>
 
+## :pencil2: تکلیف دوم
+
+**تاریخ تحویل:** 1402/08/19
+
+**میزان سختی:** متوسط
+
+**فایل تکلیف:** [تکلیف 2](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework2.pdf) 
+
+## :pencil2: تکلیف سوم
+
+**تاریخ تحویل:** 1402/08/26
+
+**میزان سختی:** متوسط
+
+**فایل تکلیف:** [تکلیف 3](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework3.pdf) 
+
+## :pencil2: تکلیف چهارم
+
+**تاریخ تحویل:** 1402/09/03
+
+**میزان سختی:** متوسط
+
+**فایل تکلیف:** [تکلیف 4](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework4.pdf) 
+
+
 [//]: # (## :man_technologist::woman_technologist: رتبه بندی کل)
 
 [//]: # (رتبه | دانشجو | تکلیف 1 | تکلیف 2 | رعایت تمیزی-خوانایی| نمره کل | توضیحات)
