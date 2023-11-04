@@ -45,8 +45,6 @@
 5 | نرجس اسپنانی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف ارسال نشده است.
 6 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف ارسال نشده است.
 
-</div>
-
 ## :pencil2: تکلیف دوم
 
 **تاریخ تحویل:** 1402/08/19
@@ -99,6 +97,8 @@
 **فایل تکلیف:** [تکلیف 4](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework4.pdf) 
 
 **فایل جواب تکلیف:** [جواب تکلیف 4](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Solutions/4)
+
+</div>
 
 [//]: # (## :man_technologist::woman_technologist: رتبه بندی کل)
 
