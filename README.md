@@ -88,6 +88,29 @@
 
 **فایل جواب تکلیف:** [جواب تکلیف 3](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Solutions/3)
 
+رتبه | دانشجو | ارسال در SESS | حل همه سوالات | پاسخ درست سوالات | رعایت تمیزی-خوانایی | اولین نفر گیتهاب | خلاقیت، موارد اضافه | تاخیر | نمره کل | توضیحات
+|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	| ---:
+|	|	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+80-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+10-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br> |	<a href=""><img src="https://img.shields.io/badge/+30-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/Day---10-E90000.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
+1 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
+1 | علیرضا رئیسی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
+2 | نرجس اسپنانی | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/125-318CE7.svg"/></a> | 
+3 | شقایق اعرابی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | کیان امیری | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | شایان برجیان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | عقیل سمیعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | محمد شجاعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | محمدمهدی صالحی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | پوریا طالبیان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | علی عصارزادگان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | حسین محمدخانی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+4 | مهسا زارع | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+4 | ابوالفضل نجف‌پور | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+5 | پرنا احمدیان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/84-318CE7.svg"/></a> | سوال Determinant جواب غلط است.
+6 | آرمین منصوری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+7 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.</br>توابع آماده ی دایرکت ایکس استفاده شده!
+7 | امیرحسین باقرزاده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+7 | علیرضا فروزنده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.</br>فایل HTML!
+
 ## :pencil2: تکلیف چهارم
 
 **تاریخ تحویل:** 1402/09/03
