@@ -128,6 +128,7 @@
 1 | شایان برجیان | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
 1 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
 1 | علیرضا رئیسی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
+1 | محمد شجاعی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
 1 | ابوالفضل نجف‌پور | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
 2 | کیان امیری | ✅ | ✅ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/122-318CE7.svg"/></a> | سوال 2.15 جواب غلط است.
 2 | امیرحسین باقرزاده | ✅ | ✅ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/122-318CE7.svg"/></a> | سوال 2.5 جواب غلط است.
@@ -137,10 +138,9 @@
 4 | نرجس اسپنانی | ❌ | ✅ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/117-318CE7.svg"/></a> | سوال 2.15 جواب غلط است.
 4 | حسین محمدخانی | ✅ | ➖ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/117-318CE7.svg"/></a> | سوال 2.19 حل نشده است.
 5 | آرمین منصوری | ✅ | ✅ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/114-318CE7.svg"/></a> | سوال 2.5 و 2.15 جواب غلط است.</br>سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
-6 | عقیل سمیعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
-6 | محمد شجاعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
-7 | شقایق اعرابی | ✅ | ➖ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/93-318CE7.svg"/></a> | سوال 2.9 و 2.15 و 2.19 حل نشده است.</br>سوال 2.5 جواب غلط است.
-8 | علی عصارزادگان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/76-318CE7.svg"/></a> | سوال 2.5 و 2.9 و 2.15 جواب غلط است.</br>سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
+6 | علی عصارزادگان | ✅ | ✅ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/106-318CE7.svg"/></a> | سوال 2.5 و 2.9 و 2.15 جواب غلط است.</br>سوال امتیازی حل شده اما غلط است، اما نمره ی بقیه داده شد.
+7 | عقیل سمیعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+8 | شقایق اعرابی | ✅ | ➖ | ➖ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/93-318CE7.svg"/></a> | سوال 2.9 و 2.15 و 2.19 حل نشده است.</br>سوال 2.5 جواب غلط است.
 9 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 9 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 
