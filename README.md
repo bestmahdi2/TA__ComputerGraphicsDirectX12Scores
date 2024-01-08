@@ -107,9 +107,9 @@
 4 | ابوالفضل نجف‌پور | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 5 | پرنا احمدیان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/84-318CE7.svg"/></a> | سوال Determinant جواب غلط است.
 6 | آرمین منصوری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-7 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | توابع آماده ی دایرکت ایکس استفاده شده!</br>توابع آماده ی دایرکت ایکس استفاده شده!
+7 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | توابع آماده ی دایرکت ایکس استفاده شده!
 7 | امیرحسین باقرزاده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-7 | علیرضا فروزنده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | فایل HTML!</br>فایل HTML!
+7 | علیرضا فروزنده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | فایل HTML!
 
 ## :pencil2: تکلیف چهارم
 
