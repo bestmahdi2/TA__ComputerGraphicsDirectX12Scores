@@ -94,22 +94,22 @@
 1 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
 1 | علیرضا رئیسی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
 2 | نرجس اسپنانی | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/125-318CE7.svg"/></a> | 
+3 | پرنا احمدیان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | سوال Determinant جواب غلط است.</br>از امتیازات اضافی قبلی (30) به مقدار 16 کسر شد و به اینجا اضافه شد.
 3 | شقایق اعرابی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | کیان امیری | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | شایان برجیان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | مهسا زارع | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | از امتیازات اضافی قبلی (30) به مقدار 5 کسر شد و به اینجا اضافه شد.
 3 | عقیل سمیعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | محمد شجاعی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | محمدمهدی صالحی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | پوریا طالبیان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | علی عصارزادگان | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | حسین محمدخانی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
-4 | مهسا زارع | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 4 | ابوالفضل نجف‌پور | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-5 | پرنا احمدیان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/84-318CE7.svg"/></a> | سوال Determinant جواب غلط است.
-6 | آرمین منصوری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-7 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | توابع آماده ی دایرکت ایکس استفاده شده!
-7 | امیرحسین باقرزاده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-7 | علیرضا فروزنده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | فایل HTML!
+5 | آرمین منصوری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+6 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | توابع آماده ی دایرکت ایکس استفاده شده!
+6 | امیرحسین باقرزاده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+6 | علیرضا فروزنده | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | فایل HTML!
 
 ## :pencil2: تکلیف چهارم
 
