@@ -144,6 +144,40 @@
 8 | پوریا رضوی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 8 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 
+## :pencil2: تکلیف پنجم
+
+**تاریخ تحویل:** 1402/09/30
+
+**میزان سختی:** متوسط
+
+**فایل تکلیف:** [تکلیف 5](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Homeworks/Homework5.pdf) 
+
+**فایل جواب تکلیف:** [جواب تکلیف 5](https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources/blob/master/z.Solutions/5)
+
+
+رتبه | دانشجو | ارسال در SESS | حل همه سوالات | پاسخ درست سوالات | رعایت تمیزی-خوانایی | اولین نفر گیتهاب | خلاقیت، موارد اضافه | تاخیر | نمره کل | توضیحات
+|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	| ---:
+|	|	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+80-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+10-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br> |	<a href=""><img src="https://img.shields.io/badge/+30-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/Day---10-E90000.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
+1 | علیرضا رئیسی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/105-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.</br>از امتیازات اضافی قبلی (130) به مقدار 100 کسر شد و به اینجا اضافه شد.
+2 | نرجس اسپنانی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | پوریا رضوی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | پرنا احمدیان | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | شقایق اعرابی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | کیان امیری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | امیرحسین باقرزاده | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | شایان برجیان | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | مهدی جمالی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | مهسا زارع | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | عقیل سمیعی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | محمد شجاعی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | محمدمهدی صالحی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | پوریا طالبیان | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | علی عصارزادگان | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | علیرضا فروزنده | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | حسین محمدخانی | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | آرمین منصوری | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+2 | ابوالفضل نجف‌پور | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/5-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+
 </div>
 
 [//]: # (## :man_technologist::woman_technologist: رتبه بندی کل)
