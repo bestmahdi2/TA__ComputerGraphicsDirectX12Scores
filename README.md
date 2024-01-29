@@ -91,10 +91,10 @@
 رتبه | دانشجو | ارسال در SESS | حل همه سوالات | پاسخ درست سوالات | رعایت تمیزی-خوانایی | اولین نفر گیتهاب | خلاقیت، موارد اضافه | تاخیر | نمره کل | توضیحات
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	| ---:
 |	|	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+80-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+10-00D16A.svg"/></a></br>	| <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br> |	<a href=""><img src="https://img.shields.io/badge/+30-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/Day---10-E90000.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
-1 | علیرضا فروزنده | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/145-318CE7.svg"/></a> | 
-2 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
+1 | مهدی جمالی | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/150-318CE7.svg"/></a> | 
 2 | علیرضا رئیسی | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/130-318CE7.svg"/></a> | 
 3 | نرجس اسپنانی | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/125-318CE7.svg"/></a> | 
+3 | علیرضا فروزنده | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/125-318CE7.svg"/></a> | 
 4 | پرنا احمدیان | ✅ | ✅ | ➖ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | سوال Determinant جواب غلط است.</br>از امتیازات اضافی قبلی (30) به مقدار 16 کسر شد و به اینجا اضافه شد.
 4 | شقایق اعرابی | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4 | کیان امیری | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
@@ -179,8 +179,4 @@
 
 </div>
 
-[//]: # (## :man_technologist::woman_technologist: رتبه بندی کل)
-
-[//]: # (رتبه | دانشجو | تکلیف 1 | تکلیف 2 | رعایت تمیزی-خوانایی| نمره کل | توضیحات)
-
-[//]: # (|:-:	|:-:	|:-------:|:-------:|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	| ---:)
+## :pencil2: امتیازات مثبت
