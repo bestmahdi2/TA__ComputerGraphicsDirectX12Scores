@@ -179,4 +179,27 @@
 
 </div>
 
-## :pencil2: امتیازات مثبت
+## :pencil2: امتیازات مثبت باقی مانده
+
+رتبه | دانشجو | نمره کل | توضیحات
+|:-:	|:-:	|:-:	|:-:
+|	|	| <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
+1 | مهدی جمالی جزلان | <a href=""><img src="https://img.shields.io/badge/124-0BDA51.svg"/></a> | 
+2 | علیرضا رئیسی نافچی | <a href=""><img src="https://img.shields.io/badge/120-0BDA51.svg"/></a> | 
+3 | علیرضا فروزنده | <a href=""><img src="https://img.shields.io/badge/96-0BDA51.svg"/></a> | 
+4 | مهسا زارع چاوشی اشنستانی | <a href=""><img src="https://img.shields.io/badge/82-0BDA51.svg"/></a> | 
+5 | محمدمهدی صالحی کهریزسنگی | <a href=""><img src="https://img.shields.io/badge/72-0BDA51.svg"/></a> | 
+6 | محمد شجاعی | <a href=""><img src="https://img.shields.io/badge/69-0BDA51.svg"/></a> | 
+7 | شایان برجیان بروجنی | <a href=""><img src="https://img.shields.io/badge/55-0BDA51.svg"/></a> | 
+8 | کیان امیری | <a href=""><img src="https://img.shields.io/badge/52-0BDA51.svg"/></a> | 
+9 | امیرحسین باقرزاده | <a href=""><img src="https://img.shields.io/badge/52-0BDA51.svg"/></a> | 
+10 | نرجس اسپنانی | <a href=""><img src="https://img.shields.io/badge/51-0BDA51.svg"/></a> | 
+11 | پرنا احمدیان | <a href=""><img src="https://img.shields.io/badge/44-0BDA51.svg"/></a> | 
+12 | شقایق اعرابی چم علیشاهی | <a href=""><img src="https://img.shields.io/badge/43-0BDA51.svg"/></a> | 
+13 | ابوالفضل نجف‌پور | <a href=""><img src="https://img.shields.io/badge/25-0BDA51.svg"/></a> | 
+14 | پوریا رضوی قهفرخی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+15 | عقیل سمیعی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+16 | پوریا طالبیان | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+17 | علی عصارزادگان | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+18 | حسین محمدخانی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+19 | آرمین منصوری | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
