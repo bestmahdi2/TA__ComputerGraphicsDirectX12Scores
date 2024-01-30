@@ -182,10 +182,10 @@
 2 | ابوالفضل نجف‌پور | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 3 | پوریا رضوی | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 3 | علی عصارزادگان | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+3 | حسین محمدخانی | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 4 | نرجس اسپنانی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/51-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.</br>از امتیازات اضافی قبلی (51) به مقدار 51 کسر شد و به اینجا اضافه شد.
 5 | عقیل سمیعی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 5 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-5 | حسین محمدخانی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | کد اجرا نمیشود و خطا دارد.
 
 </div>
 
