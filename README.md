@@ -180,12 +180,12 @@
 2 | علیرضا فروزنده | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 2 | آرمین منصوری | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | از امتیازات اضافی قبلی (5) به مقدار 5 کسر شد و به اینجا اضافه شد.
 2 | ابوالفضل نجف‌پور | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+3 | نرجس اسپنانی | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 3 | پوریا رضوی | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 3 | علی عصارزادگان | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 3 | حسین محمدخانی | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4 | نرجس اسپنانی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/51-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.</br>از امتیازات اضافی قبلی (51) به مقدار 51 کسر شد و به اینجا اضافه شد.
-5 | عقیل سمیعی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
-5 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+4 | عقیل سمیعی | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
+4 | پوریا طالبیان | ❌ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | تکلیف در گیتهاب ارسال نشده است.
 
 </div>
 
@@ -200,14 +200,14 @@
 4 | محمدمهدی صالحی کهریزسنگی | <a href=""><img src="https://img.shields.io/badge/72-0BDA51.svg"/></a> | 
 5 | محمد شجاعی | <a href=""><img src="https://img.shields.io/badge/64-0BDA51.svg"/></a> | 
 6 | شایان برجیان بروجنی | <a href=""><img src="https://img.shields.io/badge/55-0BDA51.svg"/></a> | 
-7 | کیان امیری | <a href=""><img src="https://img.shields.io/badge/47-0BDA51.svg"/></a> | 
-8 | امیرحسین باقرزاده | <a href=""><img src="https://img.shields.io/badge/47-0BDA51.svg"/></a> | 
-9 | پرنا احمدیان | <a href=""><img src="https://img.shields.io/badge/39-0BDA51.svg"/></a> | 
-10 | آرمین منصوری | <a href=""><img src="https://img.shields.io/badge/39-0BDA51.svg"/></a> | 
-11 | شقایق اعرابی چم علیشاهی | <a href=""><img src="https://img.shields.io/badge/38-0BDA51.svg"/></a> | 
-12 | ابوالفضل نجف‌پور | <a href=""><img src="https://img.shields.io/badge/25-0BDA51.svg"/></a> | 
-13 | علیرضا رئیسی نافچی | <a href=""><img src="https://img.shields.io/badge/20-0BDA51.svg"/></a> | 
-14 | نرجس اسپنانی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
+7 | نرجس اسپنانی | <a href=""><img src="https://img.shields.io/badge/51-0BDA51.svg"/></a> | 
+8 | کیان امیری | <a href=""><img src="https://img.shields.io/badge/47-0BDA51.svg"/></a> | 
+9 | امیرحسین باقرزاده | <a href=""><img src="https://img.shields.io/badge/47-0BDA51.svg"/></a> | 
+10 | پرنا احمدیان | <a href=""><img src="https://img.shields.io/badge/39-0BDA51.svg"/></a> | 
+11 | آرمین منصوری | <a href=""><img src="https://img.shields.io/badge/39-0BDA51.svg"/></a> | 
+12 | شقایق اعرابی چم علیشاهی | <a href=""><img src="https://img.shields.io/badge/38-0BDA51.svg"/></a> | 
+13 | ابوالفضل نجف‌پور | <a href=""><img src="https://img.shields.io/badge/25-0BDA51.svg"/></a> | 
+14 | علیرضا رئیسی نافچی | <a href=""><img src="https://img.shields.io/badge/20-0BDA51.svg"/></a> | 
 15 | پوریا رضوی قهفرخی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
 16 | عقیل سمیعی | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
 17 | پوریا طالبیان | <a href=""><img src="https://img.shields.io/badge/0-0BDA51.svg"/></a> | 
